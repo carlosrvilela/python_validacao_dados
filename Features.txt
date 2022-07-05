@@ -1,0 +1,21 @@
+CPF:
+    Validação: 11 dígitos
+    Máscara: 111.111.111-11
+
+CNPJ:
+    Validação: 14 dígitos
+    Máscara: 11.111.111/1111.11
+
+Telefone:
+    Validação: 10 a 11 caracteres (inclui código de área)
+    Máscara: (11)1111-1111
+
+CEP:
+    Validação: 8 dígitos
+    Máscara: 11111-111
+    WebService para informações do endereço 
+
+Data e Hora:
+    Momento do cadastro
+    Formato BR
+    Tempo de cadastro
